@@ -39,8 +39,9 @@ plt.xlabel('Attendence')
 plt.ylabel('student Name')
 plt.show()
 ```
+```
 <img width="739" height="755" alt="image" src="https://github.com/user-attachments/assets/9ecfcb75-6db3-49a1-90f3-e50ef97c6f97" />
-
+```
 SCATTER PLOT:
 ```
 x=[10,20,30,40,50]
@@ -57,8 +58,9 @@ plt.ylabel('y axis')
 plt.title('Scatter plot')
 plt.show()
 ```
+```
 <img width="685" height="739" alt="image" src="https://github.com/user-attachments/assets/b6ca136b-c549-4d84-a62a-adb6a3c4bb77" />
-
+```
 PIE CHART:
 ```
 act=['eat','sleep','work','play']
@@ -74,6 +76,7 @@ plt.pie(slices,labels=feedback,colors=color,startangle=90,shadow=True,explode=(0
 plt.legend()
 plt.show()
 ```
+
 <img width="705" height="689" alt="image" src="https://github.com/user-attachments/assets/689d9a02-11b0-413d-9ea7-c2dd6243211d" />
 
 AREA CHART:
